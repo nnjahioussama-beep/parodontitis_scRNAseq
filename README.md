@@ -11,3 +11,6 @@ Ce dépôt contient la documentation et le code pour l'analyse de données scRNA
 2. **Configuration de l'environnement de travail (Conda)**
    - Création de l'environnement virtuel `Env_scRNA`.
    - Installation des logiciels de support : `sra-tools`, `fastqc`, `multiqc`, `samtools`.
+
+3. **Préparation du Génome de Référence**
+   - Téléchargement et extraction du génome de référence humain (GRCh38) compatible avec Cell Ranger.
